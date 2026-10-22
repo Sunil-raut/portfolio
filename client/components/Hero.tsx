@@ -80,7 +80,7 @@ export default function Hero() {
           </div>
         </div>
         <div className="pfp">
-          <Image src="avatar.webp" alt={site.name} width={280} height={280} priority />
+          <Image src="/avatar.webp" alt={site.name} width={280} height={280} priority />
         </div>
       </div>
     </header>
